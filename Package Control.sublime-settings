@@ -1,0 +1,25 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"All Autocomplete",
+		"Anaconda",
+		"Better Bookmarks",
+		"Colorcoder",
+		"ColorSchemeSelector",
+		"Git",
+		"GitGutter",
+		"How Do I Code Search",
+		"Inspired GitHub Color Scheme",
+		"Package Control",
+		"PackageResourceViewer",
+		"Path Tools",
+		"SendToPasteBin",
+		"SideBarEnhancements",
+		"SublimeREPL",
+		"Theme - Soda"
+	]
+}
