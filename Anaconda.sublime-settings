@@ -1,3 +1,5 @@
+// Disable Linting
+
 {
     "anaconda_linting": false,
 }
