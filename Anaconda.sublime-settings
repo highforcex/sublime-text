@@ -1,4 +1,4 @@
-// Disable Linting
+// Disable Linting to remove annoying blocks 
 
 {
     "anaconda_linting": false,
